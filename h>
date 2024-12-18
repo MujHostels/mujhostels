@@ -1,0 +1,282 @@
+[33mcommit bd24431680972fffe62739b45625d88170e35a9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Sun Dec 15 10:01:02 2024 +0530
+
+    changes in img alt
+
+[33mcommit fd6de3a2601fee0c4a48b40fe414ff80c916999c[m
+Author: venom <138116981+MujHostels@users.noreply.github.com>
+Date:   Wed Aug 7 11:56:57 2024 +0530
+
+    uploaded some new pg pics and videos
+
+[33mcommit 4a0d9f1975f537f424fbafe026dd051bcbfcba44[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Wed Aug 7 11:50:14 2024 +0530
+
+    Delete pg new directory
+
+[33mcommit bcd3ba404d0360bcea77f94958f5158f49a7a57b[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Wed Aug 7 11:42:25 2024 +0530
+
+    uploaded sharma pg
+
+[33mcommit cca9f9530d126862354908b9a5c486fc9c30315b[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Wed Aug 7 11:40:09 2024 +0530
+
+    upload a folder for new pg
+
+[33mcommit 3874d01cfd2cf6ab49557d7afceaf6a514454c49[m
+Author: venom <mujhostels@outlook.com>
+Date:   Fri Aug 2 00:43:15 2024 +0530
+
+    updated nirvana price
+
+[33mcommit 78627349dcf771f13cc70f6ef6943d74da91b44a[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sun Jul 28 15:02:08 2024 +0530
+
+    Update Nirvana.html
+    
+    updated price in detail tab
+
+[33mcommit d92c241c0e06eb650159c688f48a81ab9549b8a4[m
+Merge: 250b183 7037bbf
+Author: venom <mujhostels@outlook.com>
+Date:   Sun Jul 28 14:58:42 2024 +0530
+
+    Merge branch 'main' of https://github.com/MujHostels/mujhostels
+
+[33mcommit 250b1839a7957a26ee9ec17332f06ca5b18e9d3b[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sun Jul 28 14:55:56 2024 +0530
+
+    Update index.html
+    
+    no update
+
+[33mcommit 7037bbfdcaad0e804276f479b37ef31f3ee07f1e[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Sun Jul 14 22:45:31 2024 +0530
+
+    Create CNAME
+
+[33mcommit fe1a36b9f2e09348b7a1f2824814814d85a852f6[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sat Jul 13 22:44:43 2024 +0530
+
+    remove middle page
+    
+    removed of option  pg and flat page
+
+[33mcommit 95a3a3f5cb2c1de5b0d8b1103a1e6c909d0d1fd0[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sat Jul 13 22:30:01 2024 +0530
+
+    removed some pg and price updated in nirvana
+
+[33mcommit a6606313a2de110d77db1a1d4135a0a0fe54e486[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sat Jul 13 21:25:37 2024 +0530
+
+    Revert "Create CNAME"
+    
+    This reverts commit d479529bdff6ffa94631335af14a7a2ba06eaede.
+
+[33mcommit 43a6511c1f371900538e5677507c421c955df83a[m
+Author: venom <mujhostels@outlook.com>
+Date:   Fri Jul 12 15:35:51 2024 +0530
+
+    price update nirvana
+
+[33mcommit fffb895237f2d72c2e5e2577a2d5df5f17139a0f[m
+Author: venom <mujhostels@outlook.com>
+Date:   Fri Jul 12 15:33:30 2024 +0530
+
+    removed some pg
+
+[33mcommit d479529bdff6ffa94631335af14a7a2ba06eaede[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 12 09:34:24 2024 +0530
+
+    Create CNAME
+
+[33mcommit e3e57d1bcaa5efc5485dec3ae60a9bdc62e8bd44[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 12 09:34:12 2024 +0530
+
+    Delete CNAME
+
+[33mcommit d47edb58da4136fe4a295cef59d4100d448a9e82[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 12 09:17:25 2024 +0530
+
+    Create CNAME
+
+[33mcommit 5c6837b14912398574e9a219a5b6d5a7c6eaf3be[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 12 09:17:14 2024 +0530
+
+    Delete CNAME
+
+[33mcommit 0881aac1245acfd66645ab1ab6697c75b18bc681[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 12 09:14:59 2024 +0530
+
+    Update CNAME
+
+[33mcommit d3da40a0b70957934c4c1afc27dea490a395284a[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 12 09:13:35 2024 +0530
+
+    Create CNAME
+
+[33mcommit b36bd8db5865afeba81af0f55c8c3a0fe1c33db8[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Thu Jul 11 23:16:57 2024 +0530
+
+    Delete CNAME
+
+[33mcommit 3dc7293e095740b1cc74ce49128c3d9c477cda14[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Thu Jul 11 23:16:15 2024 +0530
+
+    Create CNAME
+
+[33mcommit 5367919b13ecf3974c35c065dafeecb8b1ee42be[m
+Author: venom <mujhostels@outlook.com>
+Date:   Thu Aug 31 10:51:48 2023 +0530
+
+    pink door removed
+
+[33mcommit ca68570bdcbb1f746c6cd5a34ae1d6fb7df88705[m
+Author: venom <mujhostels@outlook.com>
+Date:   Mon Jul 31 13:55:08 2023 +0530
+
+    pg for 6 month
+
+[33mcommit 80f3915d7a6a4ecc9893e27e85da1d0d77c5ef70[m
+Author: venom <mujhostels@outlook.com>
+Date:   Mon Jul 31 13:53:59 2023 +0530
+
+    Update boys_pg_list.html
+
+[33mcommit 07b60e029e958ef920b970d4106f1d35b2188701[m
+Author: venom <mujhostels@outlook.com>
+Date:   Mon Jul 31 13:51:48 2023 +0530
+
+    building pic added skynext
+
+[33mcommit 19b63f34944ccfa89d50272b1611a54936208e42[m
+Author: venom <mujhostels@outlook.com>
+Date:   Mon Jul 31 13:49:18 2023 +0530
+
+    Update boys_pg_list.html
+
+[33mcommit 55035ba99df8f30a3a8ea5fe5f22053f8f18358a[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Sat Jul 29 11:13:17 2023 +0530
+
+    Update samratghar.html
+
+[33mcommit 822e0f44aa8177cc5d8d840b2e6de921c09f10f3[m
+Author: venom <mujhostels@outlook.com>
+Date:   Fri Jul 28 12:43:59 2023 +0530
+
+    SMARTH PG ADDED
+
+[33mcommit c17db07da97ea650c932324d9029e58afbf6e4a1[m
+Author: venom <mujhostels@outlook.com>
+Date:   Mon Jul 24 19:25:59 2023 +0530
+
+    pionner removed
+
+[33mcommit 7717a3bbc8a3de9cd15de3c639c0eb2d0311a5e3[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sat Jul 22 15:32:39 2023 +0530
+
+    destiny.html added
+
+[33mcommit 9aaa8d0cd838572cb9410033bed585a4c4931337[m
+Author: venom <mujhostels@outlook.com>
+Date:   Thu Jul 20 10:33:50 2023 +0530
+
+    emoji added
+
+[33mcommit 1352e841e9b711914c336fc7e04079555a4060c8[m
+Author: venom <mujhostels@outlook.com>
+Date:   Thu Jul 20 09:34:14 2023 +0530
+
+    Update NIRVANA6.png
+
+[33mcommit a3c8d3beae69ed87b970e979ba225194867a3860[m
+Author: venom <mujhostels@outlook.com>
+Date:   Thu Jul 20 09:27:02 2023 +0530
+
+    image resize nirvana
+
+[33mcommit e17e6e86a07b9eb2bf882cb001336f64b2155441[m
+Author: venom <mujhostels@outlook.com>
+Date:   Tue Jul 18 00:40:53 2023 +0530
+
+    Atulya added
+
+[33mcommit 5f47cd5a0a483a82d02a073dc36c43871cddda58[m
+Author: venom <mujhostels@outlook.com>
+Date:   Tue Jul 18 00:30:47 2023 +0530
+
+    atulya pg added
+
+[33mcommit 9420847691a4cf6d8799e8cbb16a474c183689de[m
+Author: venom <mujhostels@outlook.com>
+Date:   Sun Jul 16 09:08:01 2023 +0530
+
+    shivkripa added
+    
+    shivkripa details added
+
+[33mcommit 2331e72cbe42921124e0a22a7b80fa2466257f6a[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 14 20:41:07 2023 +0530
+
+    Update Nirvana.html
+
+[33mcommit 3fcc6b22bab959b4b453eb07c06391ec0e361637[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 14 20:35:26 2023 +0530
+
+    Update girls_pg_list.html
+
+[33mcommit 3bdbcde22a28d62f2ff069e1c092da9c2bcb488a[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 14 20:33:38 2023 +0530
+
+    Update Nirvana.html
+
+[33mcommit 9e14762bff0b2f50bc24524f21f1d30f7e6b7802[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 14 20:32:41 2023 +0530
+
+    Update boys_pg_list.html
+
+[33mcommit b79a55110100c7b7c80b9b8ac7dc8321a8fb62fa[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 14 20:30:29 2023 +0530
+
+    nirvana added
+
+[33mcommit 6404b1bcf66eb23570b2c1d106db815f16db24fa[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Fri Jul 14 19:02:45 2023 +0530
+
+    Update girls_pg_list.html
+
+[33mcommit 243e3e944bd926574e7534074cbbdeac4857aa31[m
+Author: MujHostels <138116981+MujHostels@users.noreply.github.com>
+Date:   Tue Jul 11 18:29:15 2023 +0530
+
+    Update sundarone_boys.html
+
+[33mco
